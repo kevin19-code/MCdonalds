@@ -1,0 +1,116 @@
+html{
+
+font-family:  Arial, Helvetica, sans-serif;
+font-size: 18px;
+
+}
+
+h1{
+
+font-size: 46px;
+
+}
+
+h2{
+
+  font-size: 150px;
+
+}
+
+.body{
+  margin: 0px;
+}
+
+.Line{
+    display: inline-block;
+  background-color: rgb(255, 255, 255);
+font-size: 18px;  
+margin: none;
+
+position: fixed;
+top: 0px;
+
+
+}
+
+.haze{
+margin: 1px 140px 1px 150px;
+  text-decoration: none;
+  color: rgb(255, 43, 43);
+  display: inline;
+  padding: 0px;
+
+}
+
+
+
+.oso{
+
+margin: 0px;
+padding: 5px 40px 5px 40px;
+
+}
+
+.BB{
+
+padding: 2%;
+margin: 3%;
+background-color: white;
+border: 0px;
+border-radius: 2%;
+}
+
+.GMI{
+
+width: 150px;
+height: 150px;
+
+}
+
+
+.PP{
+
+  padding: 1%;
+
+  margin: 1%;
+
+  display: block;
+
+}
+
+.JK{
+
+  width: 40px;
+height: 35px;
+}
+
+
+.FO{
+
+margin: 2%;
+
+padding: 2%;
+
+}
+
+
+table{
+
+  width: 80%;
+border: solid 1px;
+border-collapse: collapse;
+
+}
+
+
+th,td{
+background-color: greenyellow;
+  border: solid 1px ; 
+  
+  padding: 2%;
+
+
+}
+
+
+
